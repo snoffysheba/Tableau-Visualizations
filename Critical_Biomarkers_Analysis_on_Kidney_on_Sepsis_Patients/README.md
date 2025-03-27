@@ -19,4 +19,4 @@ This dashboard presents a detailed analysis of kidney function biomarkers in sep
 - anonymized patient data
 
 ## View Dashboard on Tableau Public:
-[*Dashboard link will be added here once published*](https://public.tableau.com/app/profile/sheba.alice.prathab/viz/Critical_Biomarkers_Analysis_on_Kidney_on_Sepsis_Patients/Dashboard1?publish=yes)
+https://public.tableau.com/app/profile/sheba.alice.prathab/viz/Critical_Biomarkers_Analysis_on_Kidney_on_Sepsis_Patients/Dashboard1?publish=yes
